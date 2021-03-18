@@ -1,0 +1,6 @@
+[book]
+authors = ["Fuwn"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Whirlsplash"
