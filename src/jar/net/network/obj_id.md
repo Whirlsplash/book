@@ -35,7 +35,7 @@ Returns [`this._shortObjID`](#private-int-_shortobjid).
 ### `public int longID()`
 Returns [`this._longObjID`](#private-string-_longobjid).
 
-### `void parseNetData(`[`ServerOutputStream`](./server_output_stream.md)` o) throws IOException`
+### `void parseNetData(`[`ServerInputStream`](./server_input_stream.md)` o) throws IOException`
 ```java
 if (this._longObjID != null) {
 	o.writeByte(0);
