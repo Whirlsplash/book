@@ -65,7 +65,7 @@ out.write(v >>> 8 & 0xFF);
 out.write(v >>> 0 & 0xFF);
 ```
 
-### `public final void utfLength(String str)`
+### `public static int utfLength(String str)`
 ```java
 int strlen = str.length();
 int utflen = 0;
