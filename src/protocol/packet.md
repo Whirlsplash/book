@@ -5,5 +5,5 @@ Information about how Worlds send and handles packets.
 - [https://github.com/Xyem/LibreWorlds/wiki/Packet-types](https://github.com/Xyem/LibreWorlds/wiki/Packet-types)
 - [https://github.com/Xyem/LibreWorlds/wiki/Packet-structure](https://github.com/Xyem/LibreWorlds/wiki/Packet-types)
 
-## References
+## Local Resources
 Most of [NET.worlds.network]().
