@@ -5,6 +5,7 @@
 	- [Resources](./introduction/resources.md)
 	- [Workflow](./introduction/workflow.md)
 	- [Contributing](./introduction/contributing.md)
+	- [Development](./introduction/development.md)
 	
 - [The GammaDocs](./gamma_docs/gamma_docs.md)
 	- [RoomServer]()
